@@ -14,4 +14,6 @@ Uma simples calculadora IMC que foi desenvolvida como um exercício durante o cu
 * [Repositório Pai](https://www.github.com/alemobn/study_javascript-typescript-luizomf)
 * [Curso](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/16342392?start=0#overview)
 
+Projeto desenvolvido com objetivo de praticar conceitos de Lógica de Programação.
+
 ![Demo](docs/demo.png)
