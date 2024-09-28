@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Uma simples calculadora IMC que foi desenvolvida como um exercício durante o curso **JavaScript** e **TypeScript** do básico ao avançado, do professor **Luiz Otávio Miranda**.
+Uma simples calculadora IMC que foi desenvolvida como um exercício durante o curso **JavaScript e TypeScript do básico ao avançado**, do professor Luiz Otávio Miranda.
 
 * [Ver projeto](https://alemobn.github.io/imc-calculator-js/)
 * [Repositório Pai](https://www.github.com/alemobn/study_javascript-typescript-luizomf)
